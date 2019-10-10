@@ -1,14 +1,14 @@
 # kindl_to_anki
 This script helps me transfer words I highlighted in my e-reader, fetch their polish translation from Wikiwords and prepare flat file that can be imported to AnkiDroid
 
-##Installation
+## Installation
 ```bash
 virtualenv --python=python3.6 venv
 source venv/bin/activate
 pip install -r requirements.txt 
 ```
 
-##File preparations
+## File preparations
 ### Getting highlights from Kindl
 
 ### Getting Anki Decks
