@@ -21,3 +21,4 @@ python main.py
 ## Links
 
 [Text file format on Anki | https://apps.ankiweb.net/docs/manual.html#importing-text-files]
+Simple Edit
