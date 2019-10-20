@@ -1,4 +1,5 @@
 # kindl_to_anki
+ahakd
 This script helps me transfer words I highlighted in my e-reader, fetch their polish translation from Wikiwords and prepare flat file that can be imported to AnkiDroid
 
 ## Installation
